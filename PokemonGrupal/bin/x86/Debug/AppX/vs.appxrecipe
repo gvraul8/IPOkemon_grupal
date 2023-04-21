@@ -1,0 +1,512 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>ASUS-VIVOBOOK</Machine>
+    <WindowsUser>Raúl</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>Debug|x86</SolutionConfiguration>
+    <PackageArchitecture>x86</PackageArchitecture>
+    <PackageIdentityName>df0d558e-8b40-4d62-bada-13dc3f2ca7ff</PackageIdentityName>
+    <PackageIdentityPublisher>CN=Raúl</PackageIdentityPublisher>
+    <IntermediateOutputPath>C:\Users\Raúl\OneDrive - Universidad de Castilla-La Mancha\Ingeniería Informática\Tercero\INTERACCIÓN PERSONA-ORDENADOR I\Practicas\PokemonGrupal\PokemonGrupal\obj\x86\Debug\</IntermediateOutputPath>
+    <RemoteDeploymentType>
+    </RemoteDeploymentType>
+    <PackageRegistrationPath>
+    </PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+    <DeployOptionalPackages>false</DeployOptionalPackages>
+    <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
+    <LayoutDir>C:\Users\Raúl\OneDrive - Universidad de Castilla-La Mancha\Ingeniería Informática\Tercero\INTERACCIÓN PERSONA-ORDENADOR I\Practicas\PokemonGrupal\PokemonGrupal\bin\x86\Debug\AppX</LayoutDir>
+    <RegisteredManifestChecksum>C21E44326EA103B0A2C01915552504CFA53AEC900A61D042AE904BB167E7E3F8</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>df0d558e-8b40-4d62-bada-13dc3f2ca7ff_1.0.0.0_x86__vxgt0h13fgdt8</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>df0d558e-8b40-4d62-bada-13dc3f2ca7ff_vxgt0h13fgdt8!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>df0d558e-8b40-4d62-bada-13dc3f2ca7ff</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Raúl</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Raúl\OneDrive - Universidad de Castilla-La Mancha\Ingeniería Informática\Tercero\INTERACCIÓN PERSONA-ORDENADOR I\Practicas\PokemonGrupal\PokemonGrupal\bin\x86\Debug\Core\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2023-04-13T11:51:44.510</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Raúl\OneDrive - Universidad de Castilla-La Mancha\Ingeniería Informática\Tercero\INTERACCIÓN PERSONA-ORDENADOR I\Practicas\PokemonGrupal\PokemonGrupal\bin\x86\Debug\PokemonGrupal.exe">
+      <PackagePath>entrypoint\PokemonGrupal.exe</PackagePath>
+      <Modified>2023-04-13T11:51:43.674</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Raúl\.nuget\packages\microsoft.toolkit.uwp.notifications\7.1.3\lib\uap10.0.16299\Microsoft.Toolkit.Uwp.Notifications.dll">
+      <PackagePath>Microsoft.Toolkit.Uwp.Notifications.dll</PackagePath>
+      <Modified>2022-11-01T17:32:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.2.14\runtimes\win10-x86\lib\uap10.0.15138\System.Runtime.dll">
+      <PackagePath>System.Runtime.dll</PackagePath>
+      <Modified>2022-06-10T21:24:12.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\bin\10.0.22621.0\XamlCompiler\Microsoft.UI.Xaml.Markup.winmd">
+      <PackagePath>Microsoft.UI.Xaml.Markup.winmd</PackagePath>
+      <Modified>2022-10-19T13:28:50.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Raúl\OneDrive - Universidad de Castilla-La Mancha\Ingeniería Informática\Tercero\INTERACCIÓN PERSONA-ORDENADOR I\Practicas\PokemonGrupal\PokemonGrupal\Assets\LargeTile.scale-100.png">
+      <PackagePath>Assets\LargeTile.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2023-04-13T11:20:08.236</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Raúl\OneDrive - Universidad de Castilla-La Mancha\Ingeniería Informática\Tercero\INTERACCIÓN PERSONA-ORDENADOR I\Practicas\PokemonGrupal\PokemonGrupal\Assets\LargeTile.scale-125.png">
+      <PackagePath>Assets\LargeTile.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2023-04-13T11:20:08.261</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Raúl\OneDrive - Universidad de Castilla-La Mancha\Ingeniería Informática\Tercero\INTERACCIÓN PERSONA-ORDENADOR I\Practicas\PokemonGrupal\PokemonGrupal\Assets\LargeTile.scale-150.png">
+      <PackagePath>Assets\LargeTile.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2023-04-13T11:20:08.292</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Raúl\OneDrive - Universidad de Castilla-La Mancha\Ingeniería Informática\Tercero\INTERACCIÓN PERSONA-ORDENADOR I\Practicas\PokemonGrupal\PokemonGrupal\Assets\LargeTile.scale-200.png">
+      <PackagePath>Assets\LargeTile.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2023-04-13T11:20:08.336</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Raúl\OneDrive - Universidad de Castilla-La Mancha\Ingeniería Informática\Tercero\INTERACCIÓN PERSONA-ORDENADOR I\Practicas\PokemonGrupal\PokemonGrupal\Assets\LargeTile.scale-400.png">
+      <PackagePath>Assets\LargeTile.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2023-04-13T11:20:08.471</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Raúl\OneDrive - Universidad de Castilla-La Mancha\Ingeniería Informática\Tercero\INTERACCIÓN PERSONA-ORDENADOR I\Practicas\PokemonGrupal\PokemonGrupal\Assets\SmallTile.scale-100.png">
+      <PackagePath>Assets\SmallTile.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2023-04-13T11:20:07.889</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Raúl\OneDrive - Universidad de Castilla-La Mancha\Ingeniería Informática\Tercero\INTERACCIÓN PERSONA-ORDENADOR I\Practicas\PokemonGrupal\PokemonGrupal\Assets\SmallTile.scale-125.png">
+      <PackagePath>Assets\SmallTile.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2023-04-13T11:20:07.901</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Raúl\OneDrive - Universidad de Castilla-La Mancha\Ingeniería Informática\Tercero\INTERACCIÓN PERSONA-ORDENADOR I\Practicas\PokemonGrupal\PokemonGrupal\Assets\SmallTile.scale-150.png">
+      <PackagePath>Assets\SmallTile.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2023-04-13T11:20:07.915</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Raúl\OneDrive - Universidad de Castilla-La Mancha\Ingeniería Informática\Tercero\INTERACCIÓN PERSONA-ORDENADOR I\Practicas\PokemonGrupal\PokemonGrupal\Assets\SmallTile.scale-200.png">
+      <PackagePath>Assets\SmallTile.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2023-04-13T11:20:07.930</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Raúl\OneDrive - Universidad de Castilla-La Mancha\Ingeniería Informática\Tercero\INTERACCIÓN PERSONA-ORDENADOR I\Practicas\PokemonGrupal\PokemonGrupal\Assets\SmallTile.scale-400.png">
+      <PackagePath>Assets\SmallTile.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2023-04-13T11:20:07.950</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Raúl\OneDrive - Universidad de Castilla-La Mancha\Ingeniería Informática\Tercero\INTERACCIÓN PERSONA-ORDENADOR I\Practicas\PokemonGrupal\PokemonGrupal\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2023-04-13T11:20:08.774</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Raúl\OneDrive - Universidad de Castilla-La Mancha\Ingeniería Informática\Tercero\INTERACCIÓN PERSONA-ORDENADOR I\Practicas\PokemonGrupal\PokemonGrupal\Assets\SplashScreen.scale-125.png">
+      <PackagePath>Assets\SplashScreen.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2023-04-13T11:20:08.808</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Raúl\OneDrive - Universidad de Castilla-La Mancha\Ingeniería Informática\Tercero\INTERACCIÓN PERSONA-ORDENADOR I\Practicas\PokemonGrupal\PokemonGrupal\Assets\SplashScreen.scale-150.png">
+      <PackagePath>Assets\SplashScreen.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2023-04-13T11:20:08.855</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Raúl\OneDrive - Universidad de Castilla-La Mancha\Ingeniería Informática\Tercero\INTERACCIÓN PERSONA-ORDENADOR I\Practicas\PokemonGrupal\PokemonGrupal\Assets\SplashScreen.scale-400.png">
+      <PackagePath>Assets\SplashScreen.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2023-04-13T11:20:09.201</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Raúl\OneDrive - Universidad de Castilla-La Mancha\Ingeniería Informática\Tercero\INTERACCIÓN PERSONA-ORDENADOR I\Practicas\PokemonGrupal\PokemonGrupal\Assets\Square150x150Logo.scale-100.png">
+      <PackagePath>Assets\Square150x150Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2023-04-13T11:20:07.964</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Raúl\OneDrive - Universidad de Castilla-La Mancha\Ingeniería Informática\Tercero\INTERACCIÓN PERSONA-ORDENADOR I\Practicas\PokemonGrupal\PokemonGrupal\Assets\Square150x150Logo.scale-125.png">
+      <PackagePath>Assets\Square150x150Logo.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2023-04-13T11:20:07.981</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Raúl\OneDrive - Universidad de Castilla-La Mancha\Ingeniería Informática\Tercero\INTERACCIÓN PERSONA-ORDENADOR I\Practicas\PokemonGrupal\PokemonGrupal\Assets\Square150x150Logo.scale-150.png">
+      <PackagePath>Assets\Square150x150Logo.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2023-04-13T11:20:07.999</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Raúl\OneDrive - Universidad de Castilla-La Mancha\Ingeniería Informática\Tercero\INTERACCIÓN PERSONA-ORDENADOR I\Practicas\PokemonGrupal\PokemonGrupal\Assets\Square150x150Logo.scale-400.png">
+      <PackagePath>Assets\Square150x150Logo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2023-04-13T11:20:08.064</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Raúl\OneDrive - Universidad de Castilla-La Mancha\Ingeniería Informática\Tercero\INTERACCIÓN PERSONA-ORDENADOR I\Practicas\PokemonGrupal\PokemonGrupal\Assets\Square44x44Logo.altform-lightunplated_targetsize-16.png">
+      <PackagePath>Assets\Square44x44Logo.altform-lightunplated_targetsize-16.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2023-04-13T11:20:08.691</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Raúl\OneDrive - Universidad de Castilla-La Mancha\Ingeniería Informática\Tercero\INTERACCIÓN PERSONA-ORDENADOR I\Practicas\PokemonGrupal\PokemonGrupal\Assets\Square44x44Logo.altform-lightunplated_targetsize-24.png">
+      <PackagePath>Assets\Square44x44Logo.altform-lightunplated_targetsize-24.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2023-04-13T11:20:08.702</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Raúl\OneDrive - Universidad de Castilla-La Mancha\Ingeniería Informática\Tercero\INTERACCIÓN PERSONA-ORDENADOR I\Practicas\PokemonGrupal\PokemonGrupal\Assets\Square44x44Logo.altform-lightunplated_targetsize-256.png">
+      <PackagePath>Assets\Square44x44Logo.altform-lightunplated_targetsize-256.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2023-04-13T11:20:08.747</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Raúl\OneDrive - Universidad de Castilla-La Mancha\Ingeniería Informática\Tercero\INTERACCIÓN PERSONA-ORDENADOR I\Practicas\PokemonGrupal\PokemonGrupal\Assets\Square44x44Logo.altform-lightunplated_targetsize-32.png">
+      <PackagePath>Assets\Square44x44Logo.altform-lightunplated_targetsize-32.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2023-04-13T11:20:08.713</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Raúl\OneDrive - Universidad de Castilla-La Mancha\Ingeniería Informática\Tercero\INTERACCIÓN PERSONA-ORDENADOR I\Practicas\PokemonGrupal\PokemonGrupal\Assets\Square44x44Logo.altform-lightunplated_targetsize-48.png">
+      <PackagePath>Assets\Square44x44Logo.altform-lightunplated_targetsize-48.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2023-04-13T11:20:08.726</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Raúl\OneDrive - Universidad de Castilla-La Mancha\Ingeniería Informática\Tercero\INTERACCIÓN PERSONA-ORDENADOR I\Practicas\PokemonGrupal\PokemonGrupal\Assets\Square44x44Logo.altform-unplated_targetsize-16.png">
+      <PackagePath>Assets\Square44x44Logo.altform-unplated_targetsize-16.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2023-04-13T11:20:08.619</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Raúl\OneDrive - Universidad de Castilla-La Mancha\Ingeniería Informática\Tercero\INTERACCIÓN PERSONA-ORDENADOR I\Practicas\PokemonGrupal\PokemonGrupal\Assets\Square44x44Logo.altform-unplated_targetsize-256.png">
+      <PackagePath>Assets\Square44x44Logo.altform-unplated_targetsize-256.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2023-04-13T11:20:08.679</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Raúl\OneDrive - Universidad de Castilla-La Mancha\Ingeniería Informática\Tercero\INTERACCIÓN PERSONA-ORDENADOR I\Practicas\PokemonGrupal\PokemonGrupal\Assets\Square44x44Logo.altform-unplated_targetsize-32.png">
+      <PackagePath>Assets\Square44x44Logo.altform-unplated_targetsize-32.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2023-04-13T11:20:08.642</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Raúl\OneDrive - Universidad de Castilla-La Mancha\Ingeniería Informática\Tercero\INTERACCIÓN PERSONA-ORDENADOR I\Practicas\PokemonGrupal\PokemonGrupal\Assets\Square44x44Logo.altform-unplated_targetsize-48.png">
+      <PackagePath>Assets\Square44x44Logo.altform-unplated_targetsize-48.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2023-04-13T11:20:08.656</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Raúl\OneDrive - Universidad de Castilla-La Mancha\Ingeniería Informática\Tercero\INTERACCIÓN PERSONA-ORDENADOR I\Practicas\PokemonGrupal\PokemonGrupal\Assets\Square44x44Logo.scale-100.png">
+      <PackagePath>Assets\Square44x44Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2023-04-13T11:20:08.484</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Raúl\OneDrive - Universidad de Castilla-La Mancha\Ingeniería Informática\Tercero\INTERACCIÓN PERSONA-ORDENADOR I\Practicas\PokemonGrupal\PokemonGrupal\Assets\Square44x44Logo.scale-125.png">
+      <PackagePath>Assets\Square44x44Logo.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2023-04-13T11:20:08.496</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Raúl\OneDrive - Universidad de Castilla-La Mancha\Ingeniería Informática\Tercero\INTERACCIÓN PERSONA-ORDENADOR I\Practicas\PokemonGrupal\PokemonGrupal\Assets\Square44x44Logo.scale-150.png">
+      <PackagePath>Assets\Square44x44Logo.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2023-04-13T11:20:08.509</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Raúl\OneDrive - Universidad de Castilla-La Mancha\Ingeniería Informática\Tercero\INTERACCIÓN PERSONA-ORDENADOR I\Practicas\PokemonGrupal\PokemonGrupal\Assets\Square44x44Logo.scale-400.png">
+      <PackagePath>Assets\Square44x44Logo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2023-04-13T11:20:08.539</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Raúl\OneDrive - Universidad de Castilla-La Mancha\Ingeniería Informática\Tercero\INTERACCIÓN PERSONA-ORDENADOR I\Practicas\PokemonGrupal\PokemonGrupal\Assets\Square44x44Logo.targetsize-16.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-16.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2023-04-13T11:20:08.551</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Raúl\OneDrive - Universidad de Castilla-La Mancha\Ingeniería Informática\Tercero\INTERACCIÓN PERSONA-ORDENADOR I\Practicas\PokemonGrupal\PokemonGrupal\Assets\Square44x44Logo.targetsize-24.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-24.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2023-04-13T11:20:08.563</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Raúl\OneDrive - Universidad de Castilla-La Mancha\Ingeniería Informática\Tercero\INTERACCIÓN PERSONA-ORDENADOR I\Practicas\PokemonGrupal\PokemonGrupal\Assets\Square44x44Logo.targetsize-256.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-256.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2023-04-13T11:20:08.607</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Raúl\OneDrive - Universidad de Castilla-La Mancha\Ingeniería Informática\Tercero\INTERACCIÓN PERSONA-ORDENADOR I\Practicas\PokemonGrupal\PokemonGrupal\Assets\Square44x44Logo.targetsize-32.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-32.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2023-04-13T11:20:08.575</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Raúl\OneDrive - Universidad de Castilla-La Mancha\Ingeniería Informática\Tercero\INTERACCIÓN PERSONA-ORDENADOR I\Practicas\PokemonGrupal\PokemonGrupal\Assets\Square44x44Logo.targetsize-48.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-48.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2023-04-13T11:20:08.588</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Raúl\OneDrive - Universidad de Castilla-La Mancha\Ingeniería Informática\Tercero\INTERACCIÓN PERSONA-ORDENADOR I\Practicas\PokemonGrupal\PokemonGrupal\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2023-04-13T11:20:09.213</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Raúl\OneDrive - Universidad de Castilla-La Mancha\Ingeniería Informática\Tercero\INTERACCIÓN PERSONA-ORDENADOR I\Practicas\PokemonGrupal\PokemonGrupal\Assets\StoreLogo.scale-125.png">
+      <PackagePath>Assets\StoreLogo.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2023-04-13T11:20:09.226</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Raúl\OneDrive - Universidad de Castilla-La Mancha\Ingeniería Informática\Tercero\INTERACCIÓN PERSONA-ORDENADOR I\Practicas\PokemonGrupal\PokemonGrupal\Assets\StoreLogo.scale-150.png">
+      <PackagePath>Assets\StoreLogo.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2023-04-13T11:20:09.240</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Raúl\OneDrive - Universidad de Castilla-La Mancha\Ingeniería Informática\Tercero\INTERACCIÓN PERSONA-ORDENADOR I\Practicas\PokemonGrupal\PokemonGrupal\Assets\StoreLogo.scale-200.png">
+      <PackagePath>Assets\StoreLogo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2023-04-13T11:20:09.254</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Raúl\OneDrive - Universidad de Castilla-La Mancha\Ingeniería Informática\Tercero\INTERACCIÓN PERSONA-ORDENADOR I\Practicas\PokemonGrupal\PokemonGrupal\Assets\StoreLogo.scale-400.png">
+      <PackagePath>Assets\StoreLogo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2023-04-13T11:20:09.274</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Raúl\OneDrive - Universidad de Castilla-La Mancha\Ingeniería Informática\Tercero\INTERACCIÓN PERSONA-ORDENADOR I\Practicas\PokemonGrupal\PokemonGrupal\Assets\Wide310x150Logo.scale-100.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2023-04-13T11:20:08.080</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Raúl\OneDrive - Universidad de Castilla-La Mancha\Ingeniería Informática\Tercero\INTERACCIÓN PERSONA-ORDENADOR I\Practicas\PokemonGrupal\PokemonGrupal\Assets\Wide310x150Logo.scale-125.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2023-04-13T11:20:08.098</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Raúl\OneDrive - Universidad de Castilla-La Mancha\Ingeniería Informática\Tercero\INTERACCIÓN PERSONA-ORDENADOR I\Practicas\PokemonGrupal\PokemonGrupal\Assets\Wide310x150Logo.scale-150.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2023-04-13T11:20:08.118</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Raúl\OneDrive - Universidad de Castilla-La Mancha\Ingeniería Informática\Tercero\INTERACCIÓN PERSONA-ORDENADOR I\Practicas\PokemonGrupal\PokemonGrupal\Assets\Wide310x150Logo.scale-400.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2023-04-13T11:20:08.214</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Raúl\OneDrive - Universidad de Castilla-La Mancha\Ingeniería Informática\Tercero\INTERACCIÓN PERSONA-ORDENADOR I\Practicas\PokemonGrupal\PokemonGrupal\Img\006.png">
+      <PackagePath>Img\006.png</PackagePath>
+      <Modified>2023-04-03T10:51:16.972</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Raúl\OneDrive - Universidad de Castilla-La Mancha\Ingeniería Informática\Tercero\INTERACCIÓN PERSONA-ORDENADOR I\Practicas\PokemonGrupal\PokemonGrupal\Img\agua.png">
+      <PackagePath>Img\agua.png</PackagePath>
+      <Modified>2023-04-03T10:51:16.981</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Raúl\OneDrive - Universidad de Castilla-La Mancha\Ingeniería Informática\Tercero\INTERACCIÓN PERSONA-ORDENADOR I\Practicas\PokemonGrupal\PokemonGrupal\Img\agua2.png">
+      <PackagePath>Img\agua2.png</PackagePath>
+      <Modified>2023-04-03T10:51:16.984</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Raúl\OneDrive - Universidad de Castilla-La Mancha\Ingeniería Informática\Tercero\INTERACCIÓN PERSONA-ORDENADOR I\Practicas\PokemonGrupal\PokemonGrupal\Img\bolaEscudo.png">
+      <PackagePath>Img\bolaEscudo.png</PackagePath>
+      <Modified>2023-04-03T10:51:16.991</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Raúl\OneDrive - Universidad de Castilla-La Mancha\Ingeniería Informática\Tercero\INTERACCIÓN PERSONA-ORDENADOR I\Practicas\PokemonGrupal\PokemonGrupal\Img\bolaFuego-removebg-preview.png">
+      <PackagePath>Img\bolaFuego-removebg-preview.png</PackagePath>
+      <Modified>2023-04-03T10:51:16.995</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Raúl\OneDrive - Universidad de Castilla-La Mancha\Ingeniería Informática\Tercero\INTERACCIÓN PERSONA-ORDENADOR I\Practicas\PokemonGrupal\PokemonGrupal\Img\burbujasAgua.png">
+      <PackagePath>Img\burbujasAgua.png</PackagePath>
+      <Modified>2023-04-03T10:51:17.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Raúl\OneDrive - Universidad de Castilla-La Mancha\Ingeniería Informática\Tercero\INTERACCIÓN PERSONA-ORDENADOR I\Practicas\PokemonGrupal\PokemonGrupal\Img\efectosEnergia.png">
+      <PackagePath>Img\efectosEnergia.png</PackagePath>
+      <Modified>2023-04-03T10:51:17.007</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Raúl\OneDrive - Universidad de Castilla-La Mancha\Ingeniería Informática\Tercero\INTERACCIÓN PERSONA-ORDENADOR I\Practicas\PokemonGrupal\PokemonGrupal\Img\efectosVida.png">
+      <PackagePath>Img\efectosVida.png</PackagePath>
+      <Modified>2023-04-03T10:51:17.010</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Raúl\OneDrive - Universidad de Castilla-La Mancha\Ingeniería Informática\Tercero\INTERACCIÓN PERSONA-ORDENADOR I\Practicas\PokemonGrupal\PokemonGrupal\Img\fondo.png">
+      <PackagePath>Img\fondo.png</PackagePath>
+      <Modified>2023-04-03T10:51:17.014</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Raúl\OneDrive - Universidad de Castilla-La Mancha\Ingeniería Informática\Tercero\INTERACCIÓN PERSONA-ORDENADOR I\Practicas\PokemonGrupal\PokemonGrupal\Img\icono_energia.png">
+      <PackagePath>Img\icono_energia.png</PackagePath>
+      <Modified>2023-04-03T10:51:17.017</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Raúl\OneDrive - Universidad de Castilla-La Mancha\Ingeniería Informática\Tercero\INTERACCIÓN PERSONA-ORDENADOR I\Practicas\PokemonGrupal\PokemonGrupal\Img\icono_vida.png">
+      <PackagePath>Img\icono_vida.png</PackagePath>
+      <Modified>2023-04-03T10:51:17.020</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Raúl\OneDrive - Universidad de Castilla-La Mancha\Ingeniería Informática\Tercero\INTERACCIÓN PERSONA-ORDENADOR I\Practicas\PokemonGrupal\PokemonGrupal\Img\image-removebg-preview.png">
+      <PackagePath>Img\image-removebg-preview.png</PackagePath>
+      <Modified>2023-04-03T10:51:17.023</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Raúl\OneDrive - Universidad de Castilla-La Mancha\Ingeniería Informática\Tercero\INTERACCIÓN PERSONA-ORDENADOR I\Practicas\PokemonGrupal\PokemonGrupal\Img\pocionEnergiaTomando.png">
+      <PackagePath>Img\pocionEnergiaTomando.png</PackagePath>
+      <Modified>2023-04-03T10:51:17.033</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Raúl\OneDrive - Universidad de Castilla-La Mancha\Ingeniería Informática\Tercero\INTERACCIÓN PERSONA-ORDENADOR I\Practicas\PokemonGrupal\PokemonGrupal\Img\pocionVidaTomando.png">
+      <PackagePath>Img\pocionVidaTomando.png</PackagePath>
+      <Modified>2023-04-03T10:51:17.037</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Raúl\OneDrive - Universidad de Castilla-La Mancha\Ingeniería Informática\Tercero\INTERACCIÓN PERSONA-ORDENADOR I\Practicas\PokemonGrupal\PokemonGrupal\Img\pocion_energia.png">
+      <PackagePath>Img\pocion_energia.png</PackagePath>
+      <Modified>2023-04-03T10:51:17.026</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Raúl\OneDrive - Universidad de Castilla-La Mancha\Ingeniería Informática\Tercero\INTERACCIÓN PERSONA-ORDENADOR I\Practicas\PokemonGrupal\PokemonGrupal\Img\pocion_vida.png">
+      <PackagePath>Img\pocion_vida.png</PackagePath>
+      <Modified>2023-04-03T10:51:17.029</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Raúl\OneDrive - Universidad de Castilla-La Mancha\Ingeniería Informática\Tercero\INTERACCIÓN PERSONA-ORDENADOR I\Practicas\PokemonGrupal\PokemonGrupal\Img\rayo1.png">
+      <PackagePath>Img\rayo1.png</PackagePath>
+      <Modified>2023-04-03T10:51:17.041</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Raúl\OneDrive - Universidad de Castilla-La Mancha\Ingeniería Informática\Tercero\INTERACCIÓN PERSONA-ORDENADOR I\Practicas\PokemonGrupal\PokemonGrupal\Img\zzz.png">
+      <PackagePath>Img\zzz.png</PackagePath>
+      <Modified>2023-04-03T10:51:17.044</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Raúl\OneDrive - Universidad de Castilla-La Mancha\Ingeniería Informática\Tercero\INTERACCIÓN PERSONA-ORDENADOR I\Practicas\PokemonGrupal\PokemonGrupal\Assets\LockScreenLogo.scale-200.png">
+      <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
+      <Modified>2023-02-09T14:05:32.105</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Raúl\OneDrive - Universidad de Castilla-La Mancha\Ingeniería Informática\Tercero\INTERACCIÓN PERSONA-ORDENADOR I\Practicas\PokemonGrupal\PokemonGrupal\Assets\SplashScreen.scale-200.png">
+      <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2023-04-13T11:20:08.955</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Raúl\OneDrive - Universidad de Castilla-La Mancha\Ingeniería Informática\Tercero\INTERACCIÓN PERSONA-ORDENADOR I\Practicas\PokemonGrupal\PokemonGrupal\Assets\Square150x150Logo.scale-200.png">
+      <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2023-04-13T11:20:08.019</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Raúl\OneDrive - Universidad de Castilla-La Mancha\Ingeniería Informática\Tercero\INTERACCIÓN PERSONA-ORDENADOR I\Practicas\PokemonGrupal\PokemonGrupal\Assets\Square44x44Logo.scale-200.png">
+      <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2023-04-13T11:20:08.522</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Raúl\OneDrive - Universidad de Castilla-La Mancha\Ingeniería Informática\Tercero\INTERACCIÓN PERSONA-ORDENADOR I\Practicas\PokemonGrupal\PokemonGrupal\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2023-04-13T11:20:08.631</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Raúl\OneDrive - Universidad de Castilla-La Mancha\Ingeniería Informática\Tercero\INTERACCIÓN PERSONA-ORDENADOR I\Practicas\PokemonGrupal\PokemonGrupal\Assets\Wide310x150Logo.scale-200.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2023-04-13T11:20:08.145</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Raúl\OneDrive - Universidad de Castilla-La Mancha\Ingeniería Informática\Tercero\INTERACCIÓN PERSONA-ORDENADOR I\Practicas\PokemonGrupal\PokemonGrupal\Properties\Default.rd.xml">
+      <PackagePath>Properties\Default.rd.xml</PackagePath>
+      <Modified>2023-04-03T10:34:54.135</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Raúl\OneDrive - Universidad de Castilla-La Mancha\Ingeniería Informática\Tercero\INTERACCIÓN PERSONA-ORDENADOR I\Practicas\PokemonGrupal\PokemonGrupal\bin\x86\Debug\PokemonGrupal.xr.xml">
+      <PackagePath>PokemonGrupal.xr.xml</PackagePath>
+      <Modified>2023-04-04T12:16:50.413</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Raúl\OneDrive - Universidad de Castilla-La Mancha\Ingeniería Informática\Tercero\INTERACCIÓN PERSONA-ORDENADOR I\Practicas\PokemonGrupal\PokemonGrupal\bin\x86\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2023-04-13T11:51:43.592</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Raúl\OneDrive - Universidad de Castilla-La Mancha\Ingeniería Informática\Tercero\INTERACCIÓN PERSONA-ORDENADOR I\Practicas\PokemonGrupal\PokemonGrupal\bin\x86\Debug\CombatePage.xbf">
+      <PackagePath>CombatePage.xbf</PackagePath>
+      <Modified>2023-04-13T11:51:43.592</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Raúl\OneDrive - Universidad de Castilla-La Mancha\Ingeniería Informática\Tercero\INTERACCIÓN PERSONA-ORDENADOR I\Practicas\PokemonGrupal\PokemonGrupal\bin\x86\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2023-04-13T11:51:43.592</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Raúl\OneDrive - Universidad de Castilla-La Mancha\Ingeniería Informática\Tercero\INTERACCIÓN PERSONA-ORDENADOR I\Practicas\PokemonGrupal\PokemonGrupal\bin\x86\Debug\PokeDexPage.xbf">
+      <PackagePath>PokeDexPage.xbf</PackagePath>
+      <Modified>2023-04-13T11:51:43.592</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Raúl\OneDrive - Universidad de Castilla-La Mancha\Ingeniería Informática\Tercero\INTERACCIÓN PERSONA-ORDENADOR I\Practicas\PokemonGrupal\PokemonGrupal\bin\x86\Debug\wartortle.xbf">
+      <PackagePath>wartortle.xbf</PackagePath>
+      <Modified>2023-04-13T11:51:43.592</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.22621.0\Windows.winmd">
+      <PackagePath>WinMetadata\Windows.winmd</PackagePath>
+      <Modified>2022-10-19T17:05:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Raúl\OneDrive - Universidad de Castilla-La Mancha\Ingeniería Informática\Tercero\INTERACCIÓN PERSONA-ORDENADOR I\Practicas\PokemonGrupal\PokemonGrupal\bin\x86\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2023-04-13T11:39:04.609</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Raúl\OneDrive - Universidad de Castilla-La Mancha\Ingeniería Informática\Tercero\INTERACCIÓN PERSONA-ORDENADOR I\Practicas\PokemonGrupal\PokemonGrupal\bin\x86\Debug\Core\PokemonGrupal.exe">
+      <PackagePath>PokemonGrupal.exe</PackagePath>
+      <Modified>2023-04-13T11:51:44.506</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.net.uwpcoreruntimesdk\2.2.14\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.2.appx">
+      <Name>Microsoft.NET.CoreRuntime.2.2</Name>
+      <Version>2.2.31331.1</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.CoreRuntime.2.2, MinVersion = 2.2.31331.1, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.net.uwpcoreruntimesdk\2.2.14\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.2.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x64.microsoft.net.uwpcoreruntimesdk\2.2.14\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.2.appx">
+      <Name>Microsoft.NET.CoreRuntime.2.2</Name>
+      <Version>2.2.31331.1</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.CoreRuntime.2.2, MinVersion = 2.2.31331.1, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x64.microsoft.net.uwpcoreruntimesdk\2.2.14\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.2.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-arm.microsoft.net.uwpcoreruntimesdk\2.2.14\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.2.appx">
+      <Name>Microsoft.NET.CoreRuntime.2.2</Name>
+      <Version>2.2.31331.1</Version>
+      <Architecture>arm</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.CoreRuntime.2.2, MinVersion = 2.2.31331.1, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-arm.microsoft.net.uwpcoreruntimesdk\2.2.14\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.2.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.net.uwpcoreruntimesdk\2.2.14\build\..\tools\Appx\Microsoft.NET.CoreFramework.Debug.2.2.appx">
+      <Name>Microsoft.NET.CoreFramework.Debug.2.2</Name>
+      <Version>2.2.31327.1</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.CoreFramework.Debug.2.2, MinVersion = 2.2.31327.1, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.net.uwpcoreruntimesdk\2.2.14\build\..\tools\Appx\Microsoft.NET.CoreFramework.Debug.2.2.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x64.microsoft.net.uwpcoreruntimesdk\2.2.14\build\..\tools\Appx\Microsoft.NET.CoreFramework.Debug.2.2.appx">
+      <Name>Microsoft.NET.CoreFramework.Debug.2.2</Name>
+      <Version>2.2.31327.1</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.CoreFramework.Debug.2.2, MinVersion = 2.2.31327.1, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x64.microsoft.net.uwpcoreruntimesdk\2.2.14\build\..\tools\Appx\Microsoft.NET.CoreFramework.Debug.2.2.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-arm.microsoft.net.uwpcoreruntimesdk\2.2.14\build\..\tools\Appx\Microsoft.NET.CoreFramework.Debug.2.2.appx">
+      <Name>Microsoft.NET.CoreFramework.Debug.2.2</Name>
+      <Version>2.2.31327.1</Version>
+      <Architecture>arm</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.CoreFramework.Debug.2.2, MinVersion = 2.2.31327.1, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-arm.microsoft.net.uwpcoreruntimesdk\2.2.14\build\..\tools\Appx\Microsoft.NET.CoreFramework.Debug.2.2.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.30704.0</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.30704.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\ARM\Microsoft.VCLibs.ARM.Debug.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.30704.0</Version>
+      <Architecture>ARM64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.30704.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\ARM64\Microsoft.VCLibs.ARM64.Debug.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.30704.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.30704.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\x64\Microsoft.VCLibs.x64.Debug.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.30704.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.30704.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\x86\Microsoft.VCLibs.x86.Debug.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>
