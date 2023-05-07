@@ -36,6 +36,9 @@ namespace PokemonGrupal
            += MainPage_VisibleBoundsChanged;
 
 
+
+
+
             TileContent content = new TileContent()
             {
                 Visual = new TileVisual()
@@ -118,6 +121,15 @@ namespace PokemonGrupal
 
         }
 
+        protected override void OnNavigatedTo(NavigationEventArgs e)
+        {
+            Frame rootFrame = Window.Current.Content as Frame;
+            rootFrame.BackStack.Clear();
+
+            // TODO: Use e.Parameter to pass information between pages
+        }
+
+
 
         private void NotificaciónSubida(object sender, PointerRoutedEventArgs e)
         {
@@ -165,7 +177,7 @@ namespace PokemonGrupal
         }
         private void irInicio(object sender, RoutedEventArgs e)
         {
-            fmMain.Navigate(typeof(MainPage));
+            fmMain.Navigate(typeof(InicioPage));
         }
         private void opcionVolver(object sender, BackRequestedEventArgs e)
         {
@@ -179,5 +191,6 @@ namespace PokemonGrupal
         {
             spMenu.IsPaneOpen = !spMenu.IsPaneOpen;
         }
+
     }
 }

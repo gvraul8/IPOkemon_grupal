@@ -19,7 +19,7 @@
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
     <LayoutDir>C:\Users\Raúl\OneDrive - Universidad de Castilla-La Mancha\Ingeniería Informática\Tercero\INTERACCIÓN PERSONA-ORDENADOR I\Practicas\PokemonGrupal\PokemonGrupal\bin\x86\Debug\AppX</LayoutDir>
-    <RegisteredManifestChecksum>C21E44326EA103B0A2C01915552504CFA53AEC900A61D042AE904BB167E7E3F8</RegisteredManifestChecksum>
+    <RegisteredManifestChecksum>B7A8CBE72016AFFCD4BC240F05ECA3A22DE607E5731BFBB411C085D570ABCD00</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>df0d558e-8b40-4d62-bada-13dc3f2ca7ff_1.0.0.0_x86__vxgt0h13fgdt8</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>df0d558e-8b40-4d62-bada-13dc3f2ca7ff_vxgt0h13fgdt8!App</RegisteredUserModeAppID>
     <RegisteredPackageID>df0d558e-8b40-4d62-bada-13dc3f2ca7ff</RegisteredPackageID>
@@ -30,13 +30,13 @@
     <AppXManifest Include="C:\Users\Raúl\OneDrive - Universidad de Castilla-La Mancha\Ingeniería Informática\Tercero\INTERACCIÓN PERSONA-ORDENADOR I\Practicas\PokemonGrupal\PokemonGrupal\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2023-04-13T11:51:44.510</Modified>
+      <Modified>2023-05-07T10:14:08.596</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\Raúl\OneDrive - Universidad de Castilla-La Mancha\Ingeniería Informática\Tercero\INTERACCIÓN PERSONA-ORDENADOR I\Practicas\PokemonGrupal\PokemonGrupal\bin\x86\Debug\PokemonGrupal.exe">
       <PackagePath>entrypoint\PokemonGrupal.exe</PackagePath>
-      <Modified>2023-04-13T11:51:43.674</Modified>
+      <Modified>2023-05-07T10:14:07.794</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Raúl\.nuget\packages\microsoft.toolkit.uwp.notifications\7.1.3\lib\uap10.0.16299\Microsoft.Toolkit.Uwp.Notifications.dll">
       <PackagePath>Microsoft.Toolkit.Uwp.Notifications.dll</PackagePath>
@@ -307,6 +307,30 @@
       <PackagePath>Img\efectosVida.png</PackagePath>
       <Modified>2023-04-03T10:51:17.010</Modified>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Raúl\OneDrive - Universidad de Castilla-La Mancha\Ingeniería Informática\Tercero\INTERACCIÓN PERSONA-ORDENADOR I\Practicas\PokemonGrupal\PokemonGrupal\Img\estadisticas_pichu.png">
+      <PackagePath>Img\estadisticas_pichu.png</PackagePath>
+      <Modified>2023-05-06T16:12:32.010</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Raúl\OneDrive - Universidad de Castilla-La Mancha\Ingeniería Informática\Tercero\INTERACCIÓN PERSONA-ORDENADOR I\Practicas\PokemonGrupal\PokemonGrupal\Img\estadisticas_piplup.png">
+      <PackagePath>Img\estadisticas_piplup.png</PackagePath>
+      <Modified>2023-05-06T16:11:45.474</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Raúl\OneDrive - Universidad de Castilla-La Mancha\Ingeniería Informática\Tercero\INTERACCIÓN PERSONA-ORDENADOR I\Practicas\PokemonGrupal\PokemonGrupal\Img\estadisticas_wartortle.png">
+      <PackagePath>Img\estadisticas_wartortle.png</PackagePath>
+      <Modified>2023-05-06T15:23:24.184</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Raúl\OneDrive - Universidad de Castilla-La Mancha\Ingeniería Informática\Tercero\INTERACCIÓN PERSONA-ORDENADOR I\Practicas\PokemonGrupal\PokemonGrupal\Img\evolucion_pichu.png">
+      <PackagePath>Img\evolucion_pichu.png</PackagePath>
+      <Modified>2023-05-06T15:45:08.246</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Raúl\OneDrive - Universidad de Castilla-La Mancha\Ingeniería Informática\Tercero\INTERACCIÓN PERSONA-ORDENADOR I\Practicas\PokemonGrupal\PokemonGrupal\Img\evolucion_piplup.png">
+      <PackagePath>Img\evolucion_piplup.png</PackagePath>
+      <Modified>2023-05-06T15:49:50.149</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Raúl\OneDrive - Universidad de Castilla-La Mancha\Ingeniería Informática\Tercero\INTERACCIÓN PERSONA-ORDENADOR I\Practicas\PokemonGrupal\PokemonGrupal\Img\evolucion_wartortle.png">
+      <PackagePath>Img\evolucion_wartortle.png</PackagePath>
+      <Modified>2023-05-06T15:04:42.924</Modified>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Raúl\OneDrive - Universidad de Castilla-La Mancha\Ingeniería Informática\Tercero\INTERACCIÓN PERSONA-ORDENADOR I\Practicas\PokemonGrupal\PokemonGrupal\Img\fondo.png">
       <PackagePath>Img\fondo.png</PackagePath>
       <Modified>2023-04-03T10:51:17.014</Modified>
@@ -322,6 +346,18 @@
     <AppxPackagedFile Include="C:\Users\Raúl\OneDrive - Universidad de Castilla-La Mancha\Ingeniería Informática\Tercero\INTERACCIÓN PERSONA-ORDENADOR I\Practicas\PokemonGrupal\PokemonGrupal\Img\image-removebg-preview.png">
       <PackagePath>Img\image-removebg-preview.png</PackagePath>
       <Modified>2023-04-03T10:51:17.023</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Raúl\OneDrive - Universidad de Castilla-La Mancha\Ingeniería Informática\Tercero\INTERACCIÓN PERSONA-ORDENADOR I\Practicas\PokemonGrupal\PokemonGrupal\Img\IPOKEMON.png">
+      <PackagePath>Img\IPOKEMON.png</PackagePath>
+      <Modified>2023-05-06T08:46:02.939</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Raúl\OneDrive - Universidad de Castilla-La Mancha\Ingeniería Informática\Tercero\INTERACCIÓN PERSONA-ORDENADOR I\Practicas\PokemonGrupal\PokemonGrupal\Img\pichu.png">
+      <PackagePath>Img\pichu.png</PackagePath>
+      <Modified>2023-05-06T15:43:08.529</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Raúl\OneDrive - Universidad de Castilla-La Mancha\Ingeniería Informática\Tercero\INTERACCIÓN PERSONA-ORDENADOR I\Practicas\PokemonGrupal\PokemonGrupal\Img\piplup.png">
+      <PackagePath>Img\piplup.png</PackagePath>
+      <Modified>2023-05-06T15:48:23.335</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Raúl\OneDrive - Universidad de Castilla-La Mancha\Ingeniería Informática\Tercero\INTERACCIÓN PERSONA-ORDENADOR I\Practicas\PokemonGrupal\PokemonGrupal\Img\pocionEnergiaTomando.png">
       <PackagePath>Img\pocionEnergiaTomando.png</PackagePath>
@@ -339,9 +375,17 @@
       <PackagePath>Img\pocion_vida.png</PackagePath>
       <Modified>2023-04-03T10:51:17.029</Modified>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Raúl\OneDrive - Universidad de Castilla-La Mancha\Ingeniería Informática\Tercero\INTERACCIÓN PERSONA-ORDENADOR I\Practicas\PokemonGrupal\PokemonGrupal\Img\POKEDEX.png">
+      <PackagePath>Img\POKEDEX.png</PackagePath>
+      <Modified>2023-05-05T13:57:38.695</Modified>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Raúl\OneDrive - Universidad de Castilla-La Mancha\Ingeniería Informática\Tercero\INTERACCIÓN PERSONA-ORDENADOR I\Practicas\PokemonGrupal\PokemonGrupal\Img\rayo1.png">
       <PackagePath>Img\rayo1.png</PackagePath>
       <Modified>2023-04-03T10:51:17.041</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Raúl\OneDrive - Universidad de Castilla-La Mancha\Ingeniería Informática\Tercero\INTERACCIÓN PERSONA-ORDENADOR I\Practicas\PokemonGrupal\PokemonGrupal\Img\wartotle.png">
+      <PackagePath>Img\wartotle.png</PackagePath>
+      <Modified>2023-05-06T10:45:18.600</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Raúl\OneDrive - Universidad de Castilla-La Mancha\Ingeniería Informática\Tercero\INTERACCIÓN PERSONA-ORDENADOR I\Practicas\PokemonGrupal\PokemonGrupal\Img\zzz.png">
       <PackagePath>Img\zzz.png</PackagePath>
@@ -376,33 +420,73 @@
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2023-04-13T11:20:08.145</Modified>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Raúl\OneDrive - Universidad de Castilla-La Mancha\Ingeniería Informática\Tercero\INTERACCIÓN PERSONA-ORDENADOR I\Practicas\PokemonGrupal\PokemonGrupal\Img\hello-pikachu.gif">
+      <PackagePath>Img\hello-pikachu.gif</PackagePath>
+      <Modified>2023-04-27T11:29:03.248</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Raúl\OneDrive - Universidad de Castilla-La Mancha\Ingeniería Informática\Tercero\INTERACCIÓN PERSONA-ORDENADOR I\Practicas\PokemonGrupal\PokemonGrupal\Img\pichu-gif.gif">
+      <PackagePath>Img\pichu-gif.gif</PackagePath>
+      <Modified>2023-05-05T14:51:16.481</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Raúl\OneDrive - Universidad de Castilla-La Mancha\Ingeniería Informática\Tercero\INTERACCIÓN PERSONA-ORDENADOR I\Practicas\PokemonGrupal\PokemonGrupal\Img\piplup-gif.gif">
+      <PackagePath>Img\piplup-gif.gif</PackagePath>
+      <Modified>2023-05-05T15:49:07.670</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Raúl\OneDrive - Universidad de Castilla-La Mancha\Ingeniería Informática\Tercero\INTERACCIÓN PERSONA-ORDENADOR I\Practicas\PokemonGrupal\PokemonGrupal\Img\wartotle-gif.gif">
+      <PackagePath>Img\wartotle-gif.gif</PackagePath>
+      <Modified>2023-05-05T14:09:53.387</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Raúl\OneDrive - Universidad de Castilla-La Mancha\Ingeniería Informática\Tercero\INTERACCIÓN PERSONA-ORDENADOR I\Practicas\PokemonGrupal\PokemonGrupal\Img\pokemon_city.jpeg">
+      <PackagePath>Img\pokemon_city.jpeg</PackagePath>
+      <Modified>2023-05-05T13:53:45.023</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Raúl\OneDrive - Universidad de Castilla-La Mancha\Ingeniería Informática\Tercero\INTERACCIÓN PERSONA-ORDENADOR I\Practicas\PokemonGrupal\PokemonGrupal\Img\pokemon_paisaje.jpg">
+      <PackagePath>Img\pokemon_paisaje.jpg</PackagePath>
+      <Modified>2023-05-05T14:36:08.545</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Raúl\OneDrive - Universidad de Castilla-La Mancha\Ingeniería Informática\Tercero\INTERACCIÓN PERSONA-ORDENADOR I\Practicas\PokemonGrupal\PokemonGrupal\Img\pokemon_volcano.jpg">
+      <PackagePath>Img\pokemon_volcano.jpg</PackagePath>
+      <Modified>2023-05-05T14:21:56.552</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Raúl\OneDrive - Universidad de Castilla-La Mancha\Ingeniería Informática\Tercero\INTERACCIÓN PERSONA-ORDENADOR I\Practicas\PokemonGrupal\PokemonGrupal\Datos\Pokemon.xml">
+      <PackagePath>Datos\Pokemon.xml</PackagePath>
+      <Modified>2023-05-07T09:26:07.206</Modified>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Raúl\OneDrive - Universidad de Castilla-La Mancha\Ingeniería Informática\Tercero\INTERACCIÓN PERSONA-ORDENADOR I\Practicas\PokemonGrupal\PokemonGrupal\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
       <Modified>2023-04-03T10:34:54.135</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Raúl\OneDrive - Universidad de Castilla-La Mancha\Ingeniería Informática\Tercero\INTERACCIÓN PERSONA-ORDENADOR I\Practicas\PokemonGrupal\PokemonGrupal\bin\x86\Debug\PokemonGrupal.xr.xml">
       <PackagePath>PokemonGrupal.xr.xml</PackagePath>
-      <Modified>2023-04-04T12:16:50.413</Modified>
+      <Modified>2023-05-07T10:11:07.388</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Raúl\OneDrive - Universidad de Castilla-La Mancha\Ingeniería Informática\Tercero\INTERACCIÓN PERSONA-ORDENADOR I\Practicas\PokemonGrupal\PokemonGrupal\bin\x86\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
-      <Modified>2023-04-13T11:51:43.592</Modified>
+      <Modified>2023-05-07T10:14:07.704</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Raúl\OneDrive - Universidad de Castilla-La Mancha\Ingeniería Informática\Tercero\INTERACCIÓN PERSONA-ORDENADOR I\Practicas\PokemonGrupal\PokemonGrupal\bin\x86\Debug\CombatePage.xbf">
       <PackagePath>CombatePage.xbf</PackagePath>
-      <Modified>2023-04-13T11:51:43.592</Modified>
+      <Modified>2023-05-07T10:14:07.704</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Raúl\OneDrive - Universidad de Castilla-La Mancha\Ingeniería Informática\Tercero\INTERACCIÓN PERSONA-ORDENADOR I\Practicas\PokemonGrupal\PokemonGrupal\bin\x86\Debug\InicioPage.xbf">
+      <PackagePath>InicioPage.xbf</PackagePath>
+      <Modified>2023-05-07T10:14:07.705</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Raúl\OneDrive - Universidad de Castilla-La Mancha\Ingeniería Informática\Tercero\INTERACCIÓN PERSONA-ORDENADOR I\Practicas\PokemonGrupal\PokemonGrupal\bin\x86\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
-      <Modified>2023-04-13T11:51:43.592</Modified>
+      <Modified>2023-05-07T10:14:07.705</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Raúl\OneDrive - Universidad de Castilla-La Mancha\Ingeniería Informática\Tercero\INTERACCIÓN PERSONA-ORDENADOR I\Practicas\PokemonGrupal\PokemonGrupal\bin\x86\Debug\PokedexDetails.xbf">
+      <PackagePath>PokedexDetails.xbf</PackagePath>
+      <Modified>2023-05-07T10:14:07.677</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Raúl\OneDrive - Universidad de Castilla-La Mancha\Ingeniería Informática\Tercero\INTERACCIÓN PERSONA-ORDENADOR I\Practicas\PokemonGrupal\PokemonGrupal\bin\x86\Debug\PokeDexPage.xbf">
       <PackagePath>PokeDexPage.xbf</PackagePath>
-      <Modified>2023-04-13T11:51:43.592</Modified>
+      <Modified>2023-05-07T10:14:07.705</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Raúl\OneDrive - Universidad de Castilla-La Mancha\Ingeniería Informática\Tercero\INTERACCIÓN PERSONA-ORDENADOR I\Practicas\PokemonGrupal\PokemonGrupal\bin\x86\Debug\wartortle.xbf">
       <PackagePath>wartortle.xbf</PackagePath>
-      <Modified>2023-04-13T11:51:43.592</Modified>
+      <Modified>2023-05-07T10:14:07.704</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.22621.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
@@ -410,11 +494,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Raúl\OneDrive - Universidad de Castilla-La Mancha\Ingeniería Informática\Tercero\INTERACCIÓN PERSONA-ORDENADOR I\Practicas\PokemonGrupal\PokemonGrupal\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2023-04-13T11:39:04.609</Modified>
+      <Modified>2023-05-06T16:13:14.688</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Raúl\OneDrive - Universidad de Castilla-La Mancha\Ingeniería Informática\Tercero\INTERACCIÓN PERSONA-ORDENADOR I\Practicas\PokemonGrupal\PokemonGrupal\bin\x86\Debug\Core\PokemonGrupal.exe">
       <PackagePath>PokemonGrupal.exe</PackagePath>
-      <Modified>2023-04-13T11:51:44.506</Modified>
+      <Modified>2023-05-07T10:14:08.592</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

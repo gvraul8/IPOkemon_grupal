@@ -30,5 +30,35 @@ namespace PokemonGrupal
         private void irInicio(object sender, RoutedEventArgs e)
         {
         }
+
+        private void bt_details_wartotle_Click(object sender, RoutedEventArgs e)
+        {
+
+            // Crear un diccionario para almacenar el parámetro
+            var parameter = new Dictionary<string, object>();
+            parameter.Add("pokemonNombre", "Wartortle");
+
+            Frame.Navigate(typeof(PokedexDetails), parameter);
+        }
+
+        private void bt_details_pichu_Click(object sender, RoutedEventArgs e)
+        {
+            // Crear un diccionario para almacenar el parámetro
+            var parameter = new Dictionary<string, object>();
+            parameter.Add("pokemonNombre", "Pichu");
+
+            Frame.Navigate(typeof(PokedexDetails), parameter);
+
+        }
+
+        private void bt_details_piplup_Click(object sender, RoutedEventArgs e)
+        {
+            // Crear un diccionario para almacenar el parámetro
+            var parameter = new Dictionary<string, object>();
+            parameter.Add("pokemonNombre", "Piplup");
+
+            Frame.Navigate(typeof(PokedexDetails), parameter);
+
+        }
     }
 }

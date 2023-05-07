@@ -60,6 +60,9 @@ namespace PokemonGrupal
                 Window.Current.Content = rootFrame;
             }
 
+            // Limpiar la pila de navegación para evitar que aparezca el menú de navegación al pulsar el botón de inicio
+            rootFrame.BackStack.Clear();
+
             if (e.PrelaunchActivated == false)
             {
                 if (rootFrame.Content == null)
@@ -73,6 +76,7 @@ namespace PokemonGrupal
                 Window.Current.Activate();
             }
         }
+
 
 
         protected override void OnActivated(IActivatedEventArgs e)

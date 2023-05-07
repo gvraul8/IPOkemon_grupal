@@ -241,6 +241,24 @@
     <AppxPackagedFile Include="C:\Users\Raúl\OneDrive - Universidad de Castilla-La Mancha\Ingeniería Informática\Tercero\INTERACCIÓN PERSONA-ORDENADOR I\Practicas\PokemonGrupal\PokemonGrupal\Img\efectosVida.png">
       <PackagePath>Img\efectosVida.png</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Raúl\OneDrive - Universidad de Castilla-La Mancha\Ingeniería Informática\Tercero\INTERACCIÓN PERSONA-ORDENADOR I\Practicas\PokemonGrupal\PokemonGrupal\Img\estadisticas_pichu.png">
+      <PackagePath>Img\estadisticas_pichu.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Raúl\OneDrive - Universidad de Castilla-La Mancha\Ingeniería Informática\Tercero\INTERACCIÓN PERSONA-ORDENADOR I\Practicas\PokemonGrupal\PokemonGrupal\Img\estadisticas_piplup.png">
+      <PackagePath>Img\estadisticas_piplup.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Raúl\OneDrive - Universidad de Castilla-La Mancha\Ingeniería Informática\Tercero\INTERACCIÓN PERSONA-ORDENADOR I\Practicas\PokemonGrupal\PokemonGrupal\Img\estadisticas_wartortle.png">
+      <PackagePath>Img\estadisticas_wartortle.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Raúl\OneDrive - Universidad de Castilla-La Mancha\Ingeniería Informática\Tercero\INTERACCIÓN PERSONA-ORDENADOR I\Practicas\PokemonGrupal\PokemonGrupal\Img\evolucion_pichu.png">
+      <PackagePath>Img\evolucion_pichu.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Raúl\OneDrive - Universidad de Castilla-La Mancha\Ingeniería Informática\Tercero\INTERACCIÓN PERSONA-ORDENADOR I\Practicas\PokemonGrupal\PokemonGrupal\Img\evolucion_piplup.png">
+      <PackagePath>Img\evolucion_piplup.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Raúl\OneDrive - Universidad de Castilla-La Mancha\Ingeniería Informática\Tercero\INTERACCIÓN PERSONA-ORDENADOR I\Practicas\PokemonGrupal\PokemonGrupal\Img\evolucion_wartortle.png">
+      <PackagePath>Img\evolucion_wartortle.png</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Raúl\OneDrive - Universidad de Castilla-La Mancha\Ingeniería Informática\Tercero\INTERACCIÓN PERSONA-ORDENADOR I\Practicas\PokemonGrupal\PokemonGrupal\Img\fondo.png">
       <PackagePath>Img\fondo.png</PackagePath>
     </AppxPackagedFile>
@@ -252,6 +270,15 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Raúl\OneDrive - Universidad de Castilla-La Mancha\Ingeniería Informática\Tercero\INTERACCIÓN PERSONA-ORDENADOR I\Practicas\PokemonGrupal\PokemonGrupal\Img\image-removebg-preview.png">
       <PackagePath>Img\image-removebg-preview.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Raúl\OneDrive - Universidad de Castilla-La Mancha\Ingeniería Informática\Tercero\INTERACCIÓN PERSONA-ORDENADOR I\Practicas\PokemonGrupal\PokemonGrupal\Img\IPOKEMON.png">
+      <PackagePath>Img\IPOKEMON.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Raúl\OneDrive - Universidad de Castilla-La Mancha\Ingeniería Informática\Tercero\INTERACCIÓN PERSONA-ORDENADOR I\Practicas\PokemonGrupal\PokemonGrupal\Img\pichu.png">
+      <PackagePath>Img\pichu.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Raúl\OneDrive - Universidad de Castilla-La Mancha\Ingeniería Informática\Tercero\INTERACCIÓN PERSONA-ORDENADOR I\Practicas\PokemonGrupal\PokemonGrupal\Img\piplup.png">
+      <PackagePath>Img\piplup.png</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Raúl\OneDrive - Universidad de Castilla-La Mancha\Ingeniería Informática\Tercero\INTERACCIÓN PERSONA-ORDENADOR I\Practicas\PokemonGrupal\PokemonGrupal\Img\pocionEnergiaTomando.png">
       <PackagePath>Img\pocionEnergiaTomando.png</PackagePath>
@@ -265,8 +292,14 @@
     <AppxPackagedFile Include="C:\Users\Raúl\OneDrive - Universidad de Castilla-La Mancha\Ingeniería Informática\Tercero\INTERACCIÓN PERSONA-ORDENADOR I\Practicas\PokemonGrupal\PokemonGrupal\Img\pocion_vida.png">
       <PackagePath>Img\pocion_vida.png</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Raúl\OneDrive - Universidad de Castilla-La Mancha\Ingeniería Informática\Tercero\INTERACCIÓN PERSONA-ORDENADOR I\Practicas\PokemonGrupal\PokemonGrupal\Img\POKEDEX.png">
+      <PackagePath>Img\POKEDEX.png</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Raúl\OneDrive - Universidad de Castilla-La Mancha\Ingeniería Informática\Tercero\INTERACCIÓN PERSONA-ORDENADOR I\Practicas\PokemonGrupal\PokemonGrupal\Img\rayo1.png">
       <PackagePath>Img\rayo1.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Raúl\OneDrive - Universidad de Castilla-La Mancha\Ingeniería Informática\Tercero\INTERACCIÓN PERSONA-ORDENADOR I\Practicas\PokemonGrupal\PokemonGrupal\Img\wartotle.png">
+      <PackagePath>Img\wartotle.png</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Raúl\OneDrive - Universidad de Castilla-La Mancha\Ingeniería Informática\Tercero\INTERACCIÓN PERSONA-ORDENADOR I\Practicas\PokemonGrupal\PokemonGrupal\Img\zzz.png">
       <PackagePath>Img\zzz.png</PackagePath>
@@ -294,6 +327,30 @@
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Raúl\OneDrive - Universidad de Castilla-La Mancha\Ingeniería Informática\Tercero\INTERACCIÓN PERSONA-ORDENADOR I\Practicas\PokemonGrupal\PokemonGrupal\Img\hello-pikachu.gif">
+      <PackagePath>Img\hello-pikachu.gif</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Raúl\OneDrive - Universidad de Castilla-La Mancha\Ingeniería Informática\Tercero\INTERACCIÓN PERSONA-ORDENADOR I\Practicas\PokemonGrupal\PokemonGrupal\Img\pichu-gif.gif">
+      <PackagePath>Img\pichu-gif.gif</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Raúl\OneDrive - Universidad de Castilla-La Mancha\Ingeniería Informática\Tercero\INTERACCIÓN PERSONA-ORDENADOR I\Practicas\PokemonGrupal\PokemonGrupal\Img\piplup-gif.gif">
+      <PackagePath>Img\piplup-gif.gif</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Raúl\OneDrive - Universidad de Castilla-La Mancha\Ingeniería Informática\Tercero\INTERACCIÓN PERSONA-ORDENADOR I\Practicas\PokemonGrupal\PokemonGrupal\Img\wartotle-gif.gif">
+      <PackagePath>Img\wartotle-gif.gif</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Raúl\OneDrive - Universidad de Castilla-La Mancha\Ingeniería Informática\Tercero\INTERACCIÓN PERSONA-ORDENADOR I\Practicas\PokemonGrupal\PokemonGrupal\Img\pokemon_city.jpeg">
+      <PackagePath>Img\pokemon_city.jpeg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Raúl\OneDrive - Universidad de Castilla-La Mancha\Ingeniería Informática\Tercero\INTERACCIÓN PERSONA-ORDENADOR I\Practicas\PokemonGrupal\PokemonGrupal\Img\pokemon_paisaje.jpg">
+      <PackagePath>Img\pokemon_paisaje.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Raúl\OneDrive - Universidad de Castilla-La Mancha\Ingeniería Informática\Tercero\INTERACCIÓN PERSONA-ORDENADOR I\Practicas\PokemonGrupal\PokemonGrupal\Img\pokemon_volcano.jpg">
+      <PackagePath>Img\pokemon_volcano.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Raúl\OneDrive - Universidad de Castilla-La Mancha\Ingeniería Informática\Tercero\INTERACCIÓN PERSONA-ORDENADOR I\Practicas\PokemonGrupal\PokemonGrupal\Datos\Pokemon.xml">
+      <PackagePath>Datos\Pokemon.xml</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Raúl\OneDrive - Universidad de Castilla-La Mancha\Ingeniería Informática\Tercero\INTERACCIÓN PERSONA-ORDENADOR I\Practicas\PokemonGrupal\PokemonGrupal\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
     </AppxPackagedFile>
@@ -306,8 +363,14 @@
     <AppxPackagedFile Include="C:\Users\Raúl\OneDrive - Universidad de Castilla-La Mancha\Ingeniería Informática\Tercero\INTERACCIÓN PERSONA-ORDENADOR I\Practicas\PokemonGrupal\PokemonGrupal\bin\x86\Debug\CombatePage.xbf">
       <PackagePath>CombatePage.xbf</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Raúl\OneDrive - Universidad de Castilla-La Mancha\Ingeniería Informática\Tercero\INTERACCIÓN PERSONA-ORDENADOR I\Practicas\PokemonGrupal\PokemonGrupal\bin\x86\Debug\InicioPage.xbf">
+      <PackagePath>InicioPage.xbf</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Raúl\OneDrive - Universidad de Castilla-La Mancha\Ingeniería Informática\Tercero\INTERACCIÓN PERSONA-ORDENADOR I\Practicas\PokemonGrupal\PokemonGrupal\bin\x86\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Raúl\OneDrive - Universidad de Castilla-La Mancha\Ingeniería Informática\Tercero\INTERACCIÓN PERSONA-ORDENADOR I\Practicas\PokemonGrupal\PokemonGrupal\bin\x86\Debug\PokedexDetails.xbf">
+      <PackagePath>PokedexDetails.xbf</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Raúl\OneDrive - Universidad de Castilla-La Mancha\Ingeniería Informática\Tercero\INTERACCIÓN PERSONA-ORDENADOR I\Practicas\PokemonGrupal\PokemonGrupal\bin\x86\Debug\PokeDexPage.xbf">
       <PackagePath>PokeDexPage.xbf</PackagePath>

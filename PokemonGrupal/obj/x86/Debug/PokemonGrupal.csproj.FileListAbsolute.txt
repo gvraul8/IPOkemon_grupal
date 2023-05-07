@@ -61,3 +61,13 @@ C:\Users\Raúl\OneDrive - Universidad de Castilla-La Mancha\Ingeniería Informá
 C:\Users\Raúl\OneDrive - Universidad de Castilla-La Mancha\Ingeniería Informática\Tercero\INTERACCIÓN PERSONA-ORDENADOR I\Practicas\PokemonGrupal\PokemonGrupal\bin\x86\Debug\Microsoft.Toolkit.Uwp.Notifications.dll
 C:\Users\Raúl\OneDrive - Universidad de Castilla-La Mancha\Ingeniería Informática\Tercero\INTERACCIÓN PERSONA-ORDENADOR I\Practicas\PokemonGrupal\PokemonGrupal\bin\x86\Debug\Microsoft.Toolkit.Uwp.Notifications.pdb
 C:\Users\Raúl\OneDrive - Universidad de Castilla-La Mancha\Ingeniería Informática\Tercero\INTERACCIÓN PERSONA-ORDENADOR I\Practicas\PokemonGrupal\PokemonGrupal\obj\x86\Debug\Microsoft.Toolkit.Uwp.Notifications.pri.xml
+C:\Users\Raúl\OneDrive - Universidad de Castilla-La Mancha\Ingeniería Informática\Tercero\INTERACCIÓN PERSONA-ORDENADOR I\Practicas\PokemonGrupal\PokemonGrupal\obj\x86\Debug\InicioPage.g.i.cs
+C:\Users\Raúl\OneDrive - Universidad de Castilla-La Mancha\Ingeniería Informática\Tercero\INTERACCIÓN PERSONA-ORDENADOR I\Practicas\PokemonGrupal\PokemonGrupal\obj\x86\Debug\InicioPage.g.cs
+C:\Users\Raúl\OneDrive - Universidad de Castilla-La Mancha\Ingeniería Informática\Tercero\INTERACCIÓN PERSONA-ORDENADOR I\Practicas\PokemonGrupal\PokemonGrupal\obj\x86\Debug\InicioPage.xaml
+C:\Users\Raúl\OneDrive - Universidad de Castilla-La Mancha\Ingeniería Informática\Tercero\INTERACCIÓN PERSONA-ORDENADOR I\Practicas\PokemonGrupal\PokemonGrupal\obj\x86\Debug\InicioPage.xbf
+C:\Users\Raúl\OneDrive - Universidad de Castilla-La Mancha\Ingeniería Informática\Tercero\INTERACCIÓN PERSONA-ORDENADOR I\Practicas\PokemonGrupal\PokemonGrupal\bin\x86\Debug\InicioPage.xbf
+C:\Users\Raúl\OneDrive - Universidad de Castilla-La Mancha\Ingeniería Informática\Tercero\INTERACCIÓN PERSONA-ORDENADOR I\Practicas\PokemonGrupal\PokemonGrupal\bin\x86\Debug\PokedexDetails.xbf
+C:\Users\Raúl\OneDrive - Universidad de Castilla-La Mancha\Ingeniería Informática\Tercero\INTERACCIÓN PERSONA-ORDENADOR I\Practicas\PokemonGrupal\PokemonGrupal\obj\x86\Debug\PokedexDetails.g.i.cs
+C:\Users\Raúl\OneDrive - Universidad de Castilla-La Mancha\Ingeniería Informática\Tercero\INTERACCIÓN PERSONA-ORDENADOR I\Practicas\PokemonGrupal\PokemonGrupal\obj\x86\Debug\PokedexDetails.g.cs
+C:\Users\Raúl\OneDrive - Universidad de Castilla-La Mancha\Ingeniería Informática\Tercero\INTERACCIÓN PERSONA-ORDENADOR I\Practicas\PokemonGrupal\PokemonGrupal\obj\x86\Debug\PokedexDetails.xaml
+C:\Users\Raúl\OneDrive - Universidad de Castilla-La Mancha\Ingeniería Informática\Tercero\INTERACCIÓN PERSONA-ORDENADOR I\Practicas\PokemonGrupal\PokemonGrupal\obj\x86\Debug\PokedexDetails.xbf

@@ -122,8 +122,15 @@
     <Compile Include="CombatePage.xaml.cs">
       <DependentUpon>CombatePage.xaml</DependentUpon>
     </Compile>
+    <Compile Include="InicioPage.xaml.cs">
+      <DependentUpon>InicioPage.xaml</DependentUpon>
+    </Compile>
     <Compile Include="MainPage.xaml.cs">
       <DependentUpon>MainPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="pokedata.cs" />
+    <Compile Include="PokedexDetails.xaml.cs">
+      <DependentUpon>PokedexDetails.xaml</DependentUpon>
     </Compile>
     <Compile Include="PokeDexPage.xaml.cs">
       <DependentUpon>PokeDexPage.xaml</DependentUpon>
@@ -192,16 +199,35 @@
     <Content Include="Img\burbujasAgua.png" />
     <Content Include="Img\efectosEnergia.png" />
     <Content Include="Img\efectosVida.png" />
+    <Content Include="Img\estadisticas_pichu.png" />
+    <Content Include="Img\estadisticas_piplup.png" />
+    <Content Include="Img\estadisticas_wartortle.png" />
+    <Content Include="Img\evolucion_pichu.png" />
+    <Content Include="Img\evolucion_piplup.png" />
+    <Content Include="Img\evolucion_wartortle.png" />
     <Content Include="Img\fondo.png" />
+    <Content Include="Img\hello-pikachu.gif" />
     <Content Include="Img\icono_energia.png" />
     <Content Include="Img\icono_vida.png" />
     <Content Include="Img\image-removebg-preview.png" />
+    <Content Include="Img\IPOKEMON.png" />
+    <Content Include="Img\pichu-gif.gif" />
+    <Content Include="Img\pichu.png" />
+    <Content Include="Img\piplup-gif.gif" />
+    <Content Include="Img\piplup.png" />
     <Content Include="Img\pocionEnergiaTomando.png" />
     <Content Include="Img\pocionVidaTomando.png" />
     <Content Include="Img\pocion_energia.png" />
     <Content Include="Img\pocion_vida.png" />
+    <Content Include="Img\POKEDEX.png" />
+    <Content Include="Img\pokemon_city.jpeg" />
+    <Content Include="Img\pokemon_paisaje.jpg" />
+    <Content Include="Img\pokemon_volcano.jpg" />
     <Content Include="Img\rayo1.png" />
+    <Content Include="Img\wartotle-gif.gif" />
+    <Content Include="Img\wartotle.png" />
     <Content Include="Img\zzz.png" />
+    <Content Include="Datos\Pokemon.xml" />
     <Content Include="Properties\Default.rd.xml" />
     <Content Include="Assets\LockScreenLogo.scale-200.png" />
     <Content Include="Assets\SplashScreen.scale-200.png" />
@@ -219,9 +245,17 @@
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
+    <Page Include="InicioPage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
     <Page Include="MainPage.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
+    </Page>
+    <Page Include="PokedexDetails.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
     </Page>
     <Page Include="PokeDexPage.xaml">
       <SubType>Designer</SubType>
